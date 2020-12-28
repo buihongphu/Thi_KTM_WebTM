@@ -1,0 +1,62 @@
+﻿* {
+    /* 
+    Defines the main font used throughout the entire site.
+  */
+    font-family: Arial, Sans-Serif;
+}
+
+
+
+a {
+    /*
+    Clears the underline on normal links, and gives them a different text color.
+  */
+    text-decoration: none;
+    color: #0760B2;
+}
+
+ 
+h1 {
+    /*
+    Makes h1 elements smaller than their browser default.
+  */
+    font-size: 20px;
+    color: blue;
+    height: 170px;
+    width: 822px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 14px;
+    color: #7773A1;
+    margin-top: 10px;
+}
+
+
+
+
+
+nav {
+    border-radius: 15px 50px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    background-image: url('giphy (1).gif');
+    text-align: center;
+}
+
+    nav a {
+        color: blue;
+        font-size:1.5em;
+    }
+body {
+    background-color: aqua;
+}
+
+p{
+    color:darkmagenta;
+}
+

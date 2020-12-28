@@ -1,0 +1,148 @@
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\ASP.NET.dll.config
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\ASP.NET.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\ASP.NET.pdb
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\csc.exe
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\csc.exe.config
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\csc.rsp
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\csi.exe
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\csi.exe.config
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\csi.rsp
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.AppContext.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Console.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Globalization.Calendars.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.IO.Compression.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Net.Http.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Net.Sockets.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.ValueTuple.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Xml.XPath.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\vbc.exe
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\vbc.exe.config
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\vbc.rsp
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Antlr3.Runtime.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\AspNet.ScriptManager.bootstrap.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\AspNet.ScriptManager.jQuery.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Newtonsoft.Json.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\System.Web.Optimization.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\WebGrease.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\System.Web.Optimization.xml
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Newtonsoft.Json.xml
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Antlr3.Runtime.pdb
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\CTTCĐ3A\ASP.NET\ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CTTCĐ3A\ASP.NET\ASP.NET\obj\Debug\ASP.NET.csprojAssemblyReference.cache
+C:\CTTCĐ3A\ASP.NET\ASP.NET\obj\Debug\ASP.NET.csproj.CoreCompileInputs.cache
+C:\CTTCĐ3A\ASP.NET\ASP.NET\obj\Debug\ASP.NET.csproj.CopyComplete
+C:\CTTCĐ3A\ASP.NET\ASP.NET\obj\Debug\ASP.NET.dll
+C:\CTTCĐ3A\ASP.NET\ASP.NET\obj\Debug\ASP.NET.pdb
+F:\bài thi\ASP.NET\ASP.NET\bin\ASP.NET.dll.config
+F:\bài thi\ASP.NET\ASP.NET\bin\ASP.NET.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\ASP.NET.pdb
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\csc.exe
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\csc.exe.config
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\csc.rsp
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\csi.exe
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\csi.exe.config
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\csi.rsp
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.Managed.Core.targets
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.AppContext.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Console.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Globalization.Calendars.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.IO.Compression.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Net.Http.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Net.Sockets.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.ValueTuple.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Xml.XmlDocument.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Xml.XPath.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\vbc.exe
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\vbc.exe.config
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\vbc.rsp
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\VBCSCompiler.exe
+F:\bài thi\ASP.NET\ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+F:\bài thi\ASP.NET\ASP.NET\bin\Antlr3.Runtime.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\AspNet.ScriptManager.bootstrap.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\AspNet.ScriptManager.jQuery.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\Microsoft.ScriptManager.WebForms.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\Newtonsoft.Json.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\System.Web.Optimization.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\WebGrease.dll
+F:\bài thi\ASP.NET\ASP.NET\bin\System.Web.Optimization.xml
+F:\bài thi\ASP.NET\ASP.NET\bin\Newtonsoft.Json.xml
+F:\bài thi\ASP.NET\ASP.NET\bin\Antlr3.Runtime.pdb
+F:\bài thi\ASP.NET\ASP.NET\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\bài thi\ASP.NET\ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\bài thi\ASP.NET\ASP.NET\obj\Debug\ASP.NET.csprojAssemblyReference.cache
+F:\bài thi\ASP.NET\ASP.NET\obj\Debug\ASP.NET.csproj.CoreCompileInputs.cache
+F:\bài thi\ASP.NET\ASP.NET\obj\Debug\ASP.NET.csproj.CopyComplete
+F:\bài thi\ASP.NET\ASP.NET\obj\Debug\ASP.NET.dll
+F:\bài thi\ASP.NET\ASP.NET\obj\Debug\ASP.NET.pdb
